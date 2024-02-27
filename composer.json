@@ -1,0 +1,17 @@
+{
+    "name": "automais/loja",
+    "description": "Loja de Autopecas",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Automais\\Loja\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Maromo"
+        }
+    ],
+    "require": {}
+}
